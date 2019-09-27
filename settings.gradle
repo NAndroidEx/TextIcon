@@ -1,0 +1,2 @@
+include ':app', ':texticon'
+rootProject.name='TextIconExample'
