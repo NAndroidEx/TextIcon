@@ -5,6 +5,8 @@ For an example if you want to display <b>android Robot</b> logo, you can use <b>
 
 In order to use the fa icon collection, you have to add the fa font files to your <strong>assets</strong> directly and apply the appropriate <strong>fontFace</strong> on to <strong>TextView</strong> which is simpler task. But we want the icons to be displayed in other widgets also like in <strong>Buttons</strong>, <strong>Menus</strong>, <strong>Bottom Navigation</strong> and <strong>Navigation Drawer</strong> etc,. Displaying icon in non-textual views takes some effort. So I have written a <a rel="nofollow" href="https://github.com/NAndroidEx/TextIcon" target="_blank" class="follow">library</a> by incorporating all the necessary methods to render the icons in multiple widgets.
 
+![Screenshots](screenshots.jpg)
+
 # How to get?
 <h3>Step 1.</h3> Add the JitPack repository to your build file
 Add it in your root build.gradle at the end of repositories:
@@ -122,7 +124,7 @@ public class MainActivity extends AppCompatActivity
 
 # Note
 
-This library includes the <b>Free</b> fa icons only, premium icons are not available.
+This library includes the <b>Free</b> fa icons only, <a href="https://fontawesome.com/pro" target="_blank">Premium</a> icons are not available.
 <h3>Your contributions are welcome.</h3>
 
 # Under Development
