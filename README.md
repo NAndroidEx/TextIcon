@@ -24,7 +24,7 @@ allprojects {
 
 ```
 dependencies {
-        implementation 'com.github.NAndroidEx:TextIcon:0.1.1'
+	implementation 'com.github.niraj-prajapati:TextIcon:0.1.1'
 }
 ```
 
